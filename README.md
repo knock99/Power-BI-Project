@@ -10,3 +10,4 @@ The results were Larkin leading marginally in most categories but Dubois was ver
 The tools I used were Microsoft Excel and Microsoft Power BI to narrow down my scope and do some EDA. 
 The data I used can be found at MoneyPuck.com at this link
 [SkaterData](https://moneypuck.com/data.htm)
+![points_compare](https://user-images.githubusercontent.com/123023771/233257470-0a37209b-c4f7-4b94-af07-4093e1c0d508.jpg)
