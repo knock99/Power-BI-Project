@@ -13,3 +13,10 @@ The data I used can be found at MoneyPuck.com at this link
 ##
 
 ![points_compare](https://user-images.githubusercontent.com/123023771/233257470-0a37209b-c4f7-4b94-af07-4093e1c0d508.jpg)
+##
+
+![ice_time](https://user-images.githubusercontent.com/123023771/233257745-89abcb45-8d2e-4252-aaf9-904164a5512f.jpg)
+##
+![dubois22](https://user-images.githubusercontent.com/123023771/233257774-31f03a7c-a280-47b7-91f0-4d5a518e53d9.jpg)
+##
+![penalties](https://user-images.githubusercontent.com/123023771/233257798-a7fabf24-b67b-48cb-945c-f05982dea3e1.jpg)
